@@ -3,9 +3,9 @@
 
 ## TODO
 * ~~create DB~~
-* populate DB with dummy values
-* create login
-* create UI
+* ~~populate DB with dummy values~~
+* ~~create login~~
+* create index pages for users
 
 
 ## Assigned
